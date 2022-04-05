@@ -1,0 +1,26 @@
+ul {
+  list-style: none;
+  text-align: center;
+}
+li {
+  display: inline-block;
+  margin-right: 20px;
+}
+body {
+  background-color: pink;
+}
+a {
+  text-decoration: none;
+}
+h1,
+p {
+  text-align: center;
+}
+.photo {
+  background-color: lightyellow;
+}
+img {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
